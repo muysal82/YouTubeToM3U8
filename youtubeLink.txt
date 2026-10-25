@@ -3,46 +3,46 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-Huzur Pınarı Canlı Yayın  || Radyo|| (Dini Yayın)
+Huzur Pınarı Canlı Yayın  || HuzurPinari.yt || Dini Yayın
 https://www.youtube.com/watch?v=xXd-y-Estlk
 
-Sevgili Peygamberim - Kaset 1 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 1 || TgrtKaset1.yt || Ses Kaydı
 https://www.youtube.com/watch?v=8z5izicNxfo
 
-Sevgili Peygamberim - Kaset 2 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 2 || TgrtKaset2.yt || Ses Kaydı
 https://www.youtube.com/watch?v=4AIlZYC0yZQ
 
-Sevgili Peygamberim - Kaset 3 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 3 || TgrtKaset3.yt || Ses Kaydı
 https://www.youtube.com/watch?v=joTK8uMk0O0
 
-Sevgili Peygamberim - Kaset 4 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 4 || TgrtKaset4.yt|| Ses Kaydı
 https://www.youtube.com/watch?v=qdrzsi5d99A
 
-Sevgili Peygamberim - Kaset 5 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 5 || TgrtKaset5.yt || Ses Kaydı
 https://www.youtube.com/watch?v=w0aP-lPaOzg
 
-Sevgili Peygamberim - Kaset 6 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 6 || TgrtKaset6.yt || Ses Kaydı
 https://www.youtube.com/watch?v=nVZIzrKJzlM
 
-Sevgili Peygamberim - Kaset 7 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 7 || TgrtKaset7.yt || Ses Kaydı
 https://www.youtube.com/watch?v=5Uu4OQecQhI
 
-Sevgili Peygamberim - Kaset 8 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 8 || TgrtKaset8.yt || Ses Kaydı
 https://www.youtube.com/watch?v=01X7yrHLq98
 
-Sevgili Peygamberim - Kaset 9 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 9 || TgrtKaset9.yt || Ses Kaydı
 https://www.youtube.com/watch?v=1L7_gaXq0h0
 
-Sevgili Peygamberim - Kaset 10 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 10 || TgrtKaset10.yt || Ses Kaydı
 https://www.youtube.com/watch?v=Y450F6Pi5EU
 
-Sevgili Peygamberim - Kaset 11 || TGRT-FM || Ses Kaydı
+Sevgili Peygamberim - Kaset 11 || TgrtKaset11.yt || Ses Kaydı
 https://www.youtube.com/watch?v=EJht9hESDIk
 
-Rabi'a i Adviyye Hz. || TGRT-FM || Ses Kaydı
+Rabi'a i Adviyye Hz. || Rabia.yt || Ses Kaydı
 https://www.youtube.com/watch?v=8yrV1KnFd-M
 
-Hz. Rümeysa|| TGRT-FM || Ses Kaydı
+Hz. Rümeysa|| Rümeysa.yt|| Ses Kaydı
 https://www.youtube.com/watch?v=QKmVtzr7PQw
 
 Al Jazeera English || AlJazeera.yt || News
