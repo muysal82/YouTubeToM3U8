@@ -1,45 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Radyo" tvg-name="Huzur Pınarı Canlı Yayın" group-title="(Dini Yayın)", Huzur Pınarı Canlı Yayın
+#EXTINF:-1 tvg-id="HuzurPinari.yt" tvg-name="Huzur Pınarı Canlı Yayın" group-title="Dini Yayın", Huzur Pınarı Canlı Yayın
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 1" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 1
+#EXTINF:-1 tvg-id="TgrtKaset1.yt" tvg-name="Sevgili Peygamberim - Kaset 1" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 1
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 2" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 2
+#EXTINF:-1 tvg-id="TgrtKaset2.yt" tvg-name="Sevgili Peygamberim - Kaset 2" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 2
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 3" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 3
+#EXTINF:-1 tvg-id="TgrtKaset3.yt" tvg-name="Sevgili Peygamberim - Kaset 3" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 3
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 4" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 4
+#EXTINF:-1 tvg-id="TgrtKaset4.yt" tvg-name="Sevgili Peygamberim - Kaset 4" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 4
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 5" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 5
+#EXTINF:-1 tvg-id="TgrtKaset5.yt" tvg-name="Sevgili Peygamberim - Kaset 5" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 5
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 6" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 6
+#EXTINF:-1 tvg-id="TgrtKaset6.yt" tvg-name="Sevgili Peygamberim - Kaset 6" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 6
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 7" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 7
+#EXTINF:-1 tvg-id="TgrtKaset7.yt" tvg-name="Sevgili Peygamberim - Kaset 7" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 7
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 8" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 8
+#EXTINF:-1 tvg-id="TgrtKaset8.yt" tvg-name="Sevgili Peygamberim - Kaset 8" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 8
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 9" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 9
+#EXTINF:-1 tvg-id="TgrtKaset9.yt" tvg-name="Sevgili Peygamberim - Kaset 9" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 9
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 10" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 10
+#EXTINF:-1 tvg-id="TgrtKaset10.yt" tvg-name="Sevgili Peygamberim - Kaset 10" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 10
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Sevgili Peygamberim - Kaset 11" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 11
+#EXTINF:-1 tvg-id="TgrtKaset11.yt" tvg-name="Sevgili Peygamberim - Kaset 11" group-title="Ses Kaydı", Sevgili Peygamberim - Kaset 11
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Rabi'a i Adviyye Hz." group-title="Ses Kaydı", Rabi'a i Adviyye Hz.
+#EXTINF:-1 tvg-id="Rabia.yt" tvg-name="Rabi'a i Adviyye Hz." group-title="Ses Kaydı", Rabi'a i Adviyye Hz.
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
-#EXTINF:-1 tvg-id="TGRT-FM" tvg-name="Hz. Rümeysa" group-title="Ses Kaydı", Hz. Rümeysa
+#EXTINF:-1 tvg-id="Rümeysa.yt" tvg-name="Hz. Rümeysa" group-title="Ses Kaydı", Hz. Rümeysa
 https://www.youtube.com/watch?v=1oh9IEwBbFY
 
 #EXTINF:-1 tvg-id="AlJazeera.yt" tvg-name="Al Jazeera English" group-title="News", Al Jazeera English
